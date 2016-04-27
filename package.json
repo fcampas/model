@@ -1,0 +1,23 @@
+{
+  "name": "ekit.model",
+  "version": "0.0.51",
+  "description": "Education Kit Models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fcampas@kindlepublishing.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcampas/model.git"
+  },
+  "keywords": [
+    "EKit",
+    "Model"
+  ],
+  "bugs": {
+    "url": "https://github.com/fcampas/model/issues"
+  },
+  "homepage": "https://github.com/fcampas/model#readme"
+}
